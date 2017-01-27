@@ -9,3 +9,9 @@ I implemented an Ensemble Pruning method via Individual Contribution ordering (E
 
 # Exercise04
 In this exercise, I implemented two methods of Dynamic Classifier Selection from a pool of classifiers: selection via Overall Local Accuracy (OLA) and via Local Class Accuracy (LCA). the performance of these methods with the performance of Bagging, using a dataset from UCI. More details of the experiments are described in the report.
+
+# Conclusion Project
+The project is to replicate the results reported in the following paper:
+
+[Guo, L. and Boukir, S.] Margin-based ordered aggregation for ensemble pruning, Pattern Recognition Letters, v. 34, pp. 603-609, 2013.
+More details are described in the report. 
