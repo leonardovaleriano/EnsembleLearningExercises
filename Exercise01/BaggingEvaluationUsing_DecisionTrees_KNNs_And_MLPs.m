@@ -82,6 +82,7 @@ for n = 1:size(numClassifiers,2)
 	perfPoolOfKNNs = min(perfKfold(:,2));
 	perfPoolOfMLPs = min(perfKfold(:,3));
 	save(strcat(dataSetName,'_PerformanceOfThePolls_',int2str(numClassifiers(n)),'_Classifiers'), 'perfPoolOfTrees', 'perfPoolOfKNNs', 'perfPoolOfMLPs');
-	end
-	clear;
+end
+
+clear;
 end
