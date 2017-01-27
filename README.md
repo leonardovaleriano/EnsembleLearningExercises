@@ -14,4 +14,5 @@ In this exercise, I implemented two methods of Dynamic Classifier Selection from
 The project is to replicate the results reported in the following paper:
 
 [Guo, L. and Boukir, S.] Margin-based ordered aggregation for ensemble pruning, Pattern Recognition Letters, v. 34, pp. 603-609, 2013.
+
 More details are described in the report. 
